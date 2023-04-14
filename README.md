@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bladechild
 - 👀 I’m interested in AWS
-- 🌱 I’m currently learning Practical Stats Learning
+- 🌱 I’m currently learning AWS security
 - 💞️ I’m looking to collaborate on a machine learning project
 - 📫 How to reach me at miaohuang910917@gmail.com
 
